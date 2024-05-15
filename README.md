@@ -1,2 +1,2 @@
 # nish-terraform
-img src<test.png>
+<img src="test.png">
